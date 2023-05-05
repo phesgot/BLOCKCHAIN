@@ -12,7 +12,8 @@ pip install Flask
 # Criptomoeda
 
 Bibliotecas:
-pip install Requests
-
+pip install Flask
+pip install requests
+pip install ruamel.yaml
 
 # Crontato Inteligente
